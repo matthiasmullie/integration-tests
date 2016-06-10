@@ -44,3 +44,4 @@ class TagIntegrationTest extends TaggableCachePoolTest
 
 Contributions are very welcome! Send a pull request or 
 report any issues you find on the [issue tracker](http://issues.php-cache.com).
+
